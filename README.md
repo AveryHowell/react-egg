@@ -1,2 +1,2 @@
 # react-egg
-![Screenshot](./img/readme.png)
+![Screenshot](./img/readme.jpg)
